@@ -1,0 +1,21 @@
+{
+  "name": "easyexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "bin": {
+    "easyexpress": "www.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/www"
+  },
+  "author": "lazyben",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2"
+  }
+}
